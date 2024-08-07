@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Welcome to my personal development blog. I will update my journey towards becoming a .NET developer (with a specialty in developing web applications) here. I program as a hobby with my toolbelt including C & Java but my strongest skillsets are in .NET where I have a long history with developing simple applications launched in MS Excel with VBA used by my students studying Accountancy and Engineering. Currently I am trying to expand into C# and building a repertoire in .NET and build applications from that framework.
